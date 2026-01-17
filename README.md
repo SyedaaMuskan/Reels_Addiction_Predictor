@@ -1,5 +1,3 @@
-# Reels_Addiction_Predictor
-Reels Addiction Level Predictor: A machine learning project predicting social media addiction levels (Normal, Addicted, Severely Addicted) for Gen-Z users. Includes a custom synthetic dataset, feature engineering, and a scikit-learn ML pipeline for end-to-end classification.
 # Reels Addiction Level Predictor 🚀
 
 Predict the addiction level of Gen-Z users on Instagram Reels using **machine learning**. This project includes a **custom synthetic dataset**, full **feature engineering**, and a **scikit-learn pipeline** for classification into **Normal, Addicted, and Severely Addicted** categories.
